@@ -1,0 +1,6 @@
+framework module Pods_TCGhostBlogTemplate {
+  umbrella header "Pods-TCGhostBlogTemplate-umbrella.h"
+
+  export *
+  module * { export * }
+}
